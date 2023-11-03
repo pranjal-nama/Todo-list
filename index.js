@@ -1,7 +1,4 @@
-const todos = [
-    {text: "Do leetcode questions", completed: false}, 
-    {text: "Do web development", completed: false}
-]
+const todos = []
 
 const addButton = document.getElementById('addTaskButton')
 const deleteButton = document.getElementById('deleteTaskButton')
